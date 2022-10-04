@@ -1,8 +1,14 @@
-I take the idea from a page based in a single page to register animal's patientsin ReactJS. It is responsive, use various functionalities from React to start practicing. 
-Once finished the idea, i decided to take a look the code to refactorice and make more readable.
+I took the idea from a page, the project is based in a single page to register animal patients made in ReactJS. 
+It is responsive and I used various functionalities from React to start practicing. 
+Once finished the idea, I decided to take a look at the code to refactor it and make it more readable.
 
 ### Live Demo
-* [PacienPets](https://pacienpets.netlify.app/)
+* [PacienPets](https://pacienpets.netlify.app/) 
+
+### What I've use?
+* Vite
+* Tailwind CSS
+* React
 
 
 ## Author
